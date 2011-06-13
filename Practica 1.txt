@@ -1,0 +1,15 @@
+edad=21
+altura=1.92
+valor=5+3j
+nombre="Mario"
+encontrado=False
+print edad
+print "<br>"
+print altura
+print "<br>"
+print valor
+print "<br>"
+print nombre
+print "<br>"
+print encontrado
+print "<br>"
