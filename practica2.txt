@@ -1,0 +1,23 @@
+valor1=7
+valor2=2.5
+print 'la suma es:'
+print suma
+print '<br>'
+resta=valor1*valor2
+Print 'la resta es:'
+print resta 
+print '<br>'
+print multiplicacion=valor1*valor2
+print 'el producto es:'
+print multiplicacion 
+print '<br>'
+div1=valor1/valor2
+print 'la división con resultado entero:'
+div2=valor //valor 2
+print la division con resultado float:'
+print div2
+print '<br>'
+resto=valor1%valor2
+print 'el resto:'
+print resto 
+print '<br>'
